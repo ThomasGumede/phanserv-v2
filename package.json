@@ -1,0 +1,14 @@
+{
+  "name": "PHANSERV.CO.ZA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwindcss": "npx tailwindcss -i ./Assets/css/input.css -o ./Assets/css/style_tailwind.css --watch"
+  },
+
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}

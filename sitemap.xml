@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://phanserv.co.za/</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://phanserv.co.za/index.html</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://phanserv.co.za/about.html</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://phanserv.co.za/services.html</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://phanserv.co.za/projects.html</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://phanserv.co.za/contacts.html</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://phanserv.co.za/privacy/terms.html</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://phanserv.co.za/privacy/privacy.html</loc>
+	<lastmod>2023-03-24T19:58:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
+
+<!-- <ul id="project_items" class="project-list"> -->
+
+                    <li class="project-item overflow-hidden">
+                        <div class="project-card w-[330px] relative group ">
+
+                            <figure class="w-[330px] h-[290px] img-holder" style="--width: 330; --height: 290;">
+                                <img src="./Assets/images/img2.jpg" width="330" height="290" loading="lazy"
+                                    alt="Warehouse inventory" class="w-full h-full object-cover">
+                            </figure>
+
+                            <button class="action-btn group-hover:opacity-100" aria-label="View image">
+                                <i class="bx bx-search-outline"></i>
+                            </button>
+
+                            <div class="relative w-full bg-white p-[1.25rem_1.875rem] card-content">
+                                <p class="text-custom-orange text-lg">Warehousing , Distrbution</p>
+
+                                <h3 class="text-[1.8rem] text-custom-blue text-bold">
+                                    <a href="#" class="text-xl font-bold">Warehouse inventory</a>
+                                </h3>
+
+                                <a href="#" class="text-custom-blue font-normal text-lg uppercase ">Read More</a>
+                            </div>
+
+                        </div>
+                    </li>
+                    <li class="project-item overflow-hidden">
+                        <div class="project-card w-[330px] relative group ">
+
+                            <figure class="w-[330px] h-[290px] img-holder" style="--width: 330; --height: 290;">
+                                <img src="./Assets/images/img2.jpg" width="330" height="290" loading="lazy"
+                                    alt="Warehouse inventory" class="w-full h-full object-cover">
+                            </figure>
+
+                            <button class="action-btn group-hover:opacity-100" aria-label="View image">
+                                <i class="bx bx-search-outline"></i>
+                            </button>
+
+                            <div class="relative w-full bg-white p-[1.25rem_1.875rem] card-content">
+                                <p class="text-custom-orange text-lg">Warehousing , Distrbution</p>
+
+                                <h3 class="text-[1.8rem] text-custom-blue text-bold">
+                                    <a href="#" class="text-xl font-bold">Warehouse inventory</a>
+                                </h3>
+
+                                <a href="#" class="text-custom-blue font-normal text-lg uppercase ">Read More</a>
+                            </div>
+
+                        </div>
+                    </li>
+                    <li class="project-item overflow-hidden">
+                        <div class="project-card w-[330px] relative group ">
+
+                            <figure class="w-[330px] h-[290px] img-holder" style="--width: 330; --height: 290;">
+                                <img src="./Assets/images/img2.jpg" width="330" height="290" loading="lazy"
+                                    alt="Warehouse inventory" class="w-full h-full object-cover">
+                            </figure>
+
+                            <button class="action-btn group-hover:opacity-100" aria-label="View image">
+                                <i class="bx bx-search-outline"></i>
+                            </button>
+
+                            <div class="relative w-full bg-white p-[1.25rem_1.875rem] card-content">
+                                <p class="text-custom-orange text-lg">Warehousing , Distrbution</p>
+
+                                <h3 class="text-[1.8rem] text-custom-blue text-bold">
+                                    <a href="#" class="text-xl font-bold">Warehouse inventory</a>
+                                </h3>
+
+                                <a href="#" class="text-custom-blue font-normal text-lg uppercase ">Read More</a>
+                            </div>
+
+                        </div>
+                    </li>
+                    <li class="project-item overflow-hidden">
+                        <div class="project-card w-[330px] relative group ">
+
+                            <figure class="w-[330px] h-[290px] img-holder" style="--width: 330; --height: 290;">
+                                <img src="./Assets/images/img2.jpg" width="330" height="290" loading="lazy"
+                                    alt="Warehouse inventory" class="w-full h-full object-cover">
+                            </figure>
+
+                            <button class="action-btn group-hover:opacity-100" aria-label="View image">
+                                <i class="bx bx-search-outline"></i>
+                            </button>
+
+                            <div class="relative w-full bg-white p-[1.25rem_1.875rem] card-content">
+                                <p class="text-custom-orange text-base">Warehousing , Distrbution</p>
+
+                                <h3 class="text-[1.8rem] text-custom-blue text-bold">
+                                    <a href="#" class="text-xl font-bold">Warehouse inventory</a>
+                                </h3>
+
+                                <a href="#" class="text-custom-blue font-normal text-lg uppercase ">Read More</a>
+                            </div>
+
+                        </div>
+                    </li>
+                    <li class="project-item overflow-hidden">
+                        <div class="project-card w-[330px] relative group ">
+
+                            <figure class="w-[330px] h-[290px] img-holder" style="--width: 330; --height: 290;">
+                                <img src="./Assets/images/img2.jpg" width="330" height="290" loading="lazy"
+                                    alt="Warehouse inventory" class="w-full h-full object-cover">
+                            </figure>
+
+                            <button class="action-btn group-hover:opacity-100" aria-label="View image">
+                                <i class="bx bx-search-outline"></i>
+                            </button>
+
+                            <div class="relative w-full bg-white p-[1.25rem_1.875rem] card-content">
+                                <p class="text-custom-orange text-lg">Warehousing , Distrbution</p>
+
+                                <h3 class="text-[1.8rem] text-custom-blue text-bold">
+                                    <a href="#" class="text-xl font-bold">Warehouse inventory</a>
+                                </h3>
+
+                                <a href="#" class="text-custom-blue font-normal text-lg uppercase ">Read More</a>
+                            </div>
+
+                        </div>
+                    </li>
+                    <li class="project-item overflow-hidden">
+                        <div class="project-card w-[330px] relative group ">
+
+                            <figure class="w-[330px] h-[290px] img-holder" style="--width: 330; --height: 290;">
+                                <img src="./Assets/images/img2.jpg" width="330" height="290" loading="lazy"
+                                    alt="Warehouse inventory" class="w-full h-full object-cover">
+                            </figure>
+
+                            <button class="action-btn group-hover:opacity-100" aria-label="View image">
+                                <i class="bx bx-search-outline"></i>
+                            </button>
+
+                            <div class="relative w-full bg-white p-[1.25rem_1.875rem] card-content">
+                                <p class="text-custom-orange text-lg">Warehousing , Distrbution</p>
+
+                                <h3 class="text-[1.8rem] text-custom-blue text-bold">
+                                    <a href="#" class="text-xl font-bold">Warehouse inventory</a>
+                                </h3>
+
+                                <a href="#" class="text-custom-blue font-normal text-lg uppercase ">Read More</a>
+                            </div>
+
+                        </div>
+                    </li>
+
+                </ul>

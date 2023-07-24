@@ -1,0 +1,6 @@
+User-aget: *
+Disallow:
+Disallow: /cgi-bin/
+Disallow: /assets
+Disallow: /assets/
+Sitemap: https://phanserv.co.za/sitemap.xml
