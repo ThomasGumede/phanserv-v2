@@ -16,7 +16,8 @@ module.exports = {
       backgroundImage: {
         heroImage:
           "linear-gradient(0deg, rgba(25,36,56,0.77), rgba(25,36,56,0.77)), url('../images/Geotech2.jpg')",
-        customBgImage: "linear-gradient(0deg, rgba(25,36,56,0.77), rgba(25,36,56,0.77)), url('../images/img3.jpg')"
+        customBgImage: "linear-gradient(0deg, rgba(25,36,56,0.77), rgba(25,36,56,0.77)), url('../images/img3.jpg')",
+        custombgimage: "linear-gradient(0deg, rgba(25,36,56,0.77), rgba(25,36,56,0.77)), url('../images/img4.jpg')"
       },
     },
   },

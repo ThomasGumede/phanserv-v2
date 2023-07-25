@@ -547,21 +547,6 @@ video {
   }
 }
 
-.action-btn {
-  position: absolute;
-  top: 2.25rem;
-  left: 2.25rem;
-  --tw-bg-opacity: 1;
-  background-color: hsl(32 100% 50% / var(--tw-bg-opacity));
-  font-size: 1.5rem;
-  line-height: 2rem;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-  opacity: 0;
-  transition-delay: 300ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 1, 1);
-}
-
 .active {
   --tw-text-opacity: 1;
   color: hsl(217.69 73.58% 20.78% / var(--tw-text-opacity));
@@ -641,10 +626,6 @@ video {
 
 .z-\[100\] {
   z-index: 100;
-}
-
-.z-20 {
-  z-index: 20;
 }
 
 .mx-14 {
@@ -727,6 +708,10 @@ video {
   height: 4rem;
 }
 
+.h-52 {
+  height: 13rem;
+}
+
 .h-80 {
   height: 20rem;
 }
@@ -735,12 +720,12 @@ video {
   height: 1px;
 }
 
-.h-\[28\.125rem\] {
-  height: 28.125rem;
+.h-\[24rem\] {
+  height: 24rem;
 }
 
-.h-\[290px\] {
-  height: 290px;
+.h-\[28\.125rem\] {
+  height: 28.125rem;
 }
 
 .h-\[70px\] {
@@ -755,16 +740,9 @@ video {
   height: 100vh;
 }
 
-.h-\[27\.75rem\] {
-  height: 27.75rem;
-}
-
-.h-\[\] {
-  height: ;
-}
-
-.h-\[24rem\] {
-  height: 24rem;
+.h-fit {
+  height: -moz-fit-content;
+  height: fit-content;
 }
 
 .w-14 {
@@ -785,10 +763,6 @@ video {
 
 .w-\[3\.125rem\] {
   width: 3.125rem;
-}
-
-.w-\[330px\] {
-  width: 330px;
 }
 
 .w-full {
@@ -860,6 +834,10 @@ video {
   gap: 2.5rem;
 }
 
+.gap-11 {
+  gap: 2.75rem;
+}
+
 .gap-20 {
   gap: 5rem;
 }
@@ -882,14 +860,6 @@ video {
 
 .gap-8 {
   gap: 2rem;
-}
-
-.gap-1 {
-  gap: 0.25rem;
-}
-
-.gap-11 {
-  gap: 2.75rem;
 }
 
 .gap-y-10 {
@@ -1123,6 +1093,10 @@ video {
   background-image: linear-gradient(0deg, rgba(25,36,56,0.77), rgba(25,36,56,0.77)), url('../images/Geotech2.jpg');
 }
 
+.bg-custombgimage {
+  background-image: linear-gradient(0deg, rgba(25,36,56,0.77), rgba(25,36,56,0.77)), url('../images/img4.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -1158,10 +1132,6 @@ video {
 
 .p-6 {
   padding: 1.5rem;
-}
-
-.p-\[1\.25rem_1\.875rem\] {
-  padding: 1.25rem 1.875rem;
 }
 
 .px-3 {
@@ -1265,10 +1235,6 @@ video {
   line-height: 1;
 }
 
-.text-\[1\.8rem\] {
-  font-size: 1.8rem;
-}
-
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -1316,10 +1282,6 @@ video {
 
 .uppercase {
   text-transform: uppercase;
-}
-
-.leading-10 {
-  line-height: 2.5rem;
 }
 
 .text-\[hsl\(0\2c _0\%\2c _91\%\)\] {
@@ -1451,10 +1413,6 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.group:hover .group-hover\:opacity-100 {
-  opacity: 1;
-}
-
 @media (min-width: 640px) {
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1466,10 +1424,6 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:absolute {
-    position: absolute;
-  }
-
   .md\:relative {
     position: relative;
   }
@@ -1480,10 +1434,6 @@ video {
 
   .md\:top-auto {
     top: auto;
-  }
-
-  .md\:top-\[19\%\] {
-    top: 19%;
   }
 
   .md\:mx-24 {
@@ -1517,6 +1467,10 @@ video {
     height: 18rem;
   }
 
+  .md\:h-\[27\.75rem\] {
+    height: 27.75rem;
+  }
+
   .md\:h-\[28\.75rem\] {
     height: 28.75rem;
   }
@@ -1529,20 +1483,20 @@ video {
     height: 100vh;
   }
 
-  .md\:h-\[\] {
-    height: ;
+  .md\:h-80 {
+    height: 20rem;
   }
 
-  .md\:h-\[35rem\] {
-    height: 35rem;
-  }
-
-  .md\:h-\[27\.75rem\] {
-    height: 27.75rem;
+  .md\:h-full {
+    height: 100%;
   }
 
   .md\:w-2\/4 {
     width: 50%;
+  }
+
+  .md\:w-\[30\.25rem\] {
+    width: 30.25rem;
   }
 
   .md\:w-\[31\.25rem\] {
@@ -1563,10 +1517,6 @@ video {
 
   .md\:w-full {
     width: 100%;
-  }
-
-  .md\:w-\[30\.25rem\] {
-    width: 30.25rem;
   }
 
   .md\:flex-\[0\.5\] {
@@ -1627,18 +1577,16 @@ video {
     margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));
   }
 
-  .md\:space-y-4 > :not([hidden]) ~ :not([hidden]) {
-    --tw-space-y-reverse: 0;
-    margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(1rem * var(--tw-space-y-reverse));
-  }
-
   .md\:bg-transparent {
     background-color: transparent;
   }
 
   .md\:p-6 {
     padding: 1.5rem;
+  }
+
+  .md\:p-0 {
+    padding: 0px;
   }
 
   .md\:px-6 {
@@ -1699,16 +1647,5 @@ video {
 @media (min-width: 1024px) {
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-@media (min-width: 1280px) {
-  .xl\:text-5xl {
-    font-size: 3rem;
-    line-height: 1;
-  }
-
-  .xl\:leading-\[50px\] {
-    line-height: 50px;
   }
 }

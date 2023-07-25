@@ -220,9 +220,13 @@ if (navbarItems.classList.contains("show-mobile-navbar"))
 }
 // Methods
 
-var encEmail = "cGhhbmVyZXRpY3NlcnZpY2VzQGdtYWlsLmNvbQ==";
+var encEmail = "aW5mb0BwaGFuc2Vydi5jby56YQ==";
 const form = document.getElementById("contact-email");
 form.setAttribute("href", "mailto:".concat(atob(encEmail)));
+
+var encEmail2 = "YWNjb3VudHNAcGhhbnNlcnYuY28uemE=";
+const form2 = document.getElementById("contact-email-2");
+form2.setAttribute("href", "mailto:".concat(atob(encEmail2)));
 
 // ========= load data to web =========== //
 function loadData(idAttrib) {
