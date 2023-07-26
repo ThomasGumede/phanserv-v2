@@ -3,4 +3,5 @@ Disallow:
 Disallow: /cgi-bin/
 Disallow: /Assets
 Disallow: /Assets/
+Disallow: /privacy
 Sitemap: https://phanserv.co.za/sitemap.xml
