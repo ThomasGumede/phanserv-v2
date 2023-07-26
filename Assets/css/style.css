@@ -31,6 +31,10 @@
   border: 2px solid hsl(218.71,38.27%,15.88%);
   }
   
+  .footer-m{
+    margin-block: 10px 30px;
+  }
+
   .navbar_on_scroll {
     position: fixed;
     top: 0;
