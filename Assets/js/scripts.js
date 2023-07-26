@@ -222,7 +222,13 @@ if (navbarItems.classList.contains("show-mobile-navbar"))
 
 var encEmail = "aW5mb0BwaGFuc2Vydi5jby56YQ==";
 const form = document.getElementById("contact-email");
+const form3 = document.getElementById("contact-email-");
+const form4 = document.getElementById("contact-email-4");
+const form5 = document.getElementById("contact-email-5");
 form.setAttribute("href", "mailto:".concat(atob(encEmail)));
+form3.setAttribute("href", "mailto:".concat(atob(encEmail)));
+form4.setAttribute("href", "mailto:".concat(atob(encEmail)));
+form5.setAttribute("href", "mailto:".concat(atob(encEmail)));
 
 var encEmail2 = "YWNjb3VudHNAcGhhbnNlcnYuY28uemE=";
 const form2 = document.getElementById("contact-email-2");
